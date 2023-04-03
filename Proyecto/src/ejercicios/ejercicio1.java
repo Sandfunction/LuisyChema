@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ejercicio1 {
 
 	public static void main(String[] args) {
-
+//comentario
 		int max = 80;
 		int min = 20;
 		int intentos = 0;
